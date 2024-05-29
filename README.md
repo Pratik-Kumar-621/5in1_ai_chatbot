@@ -1,4 +1,4 @@
-## HighFive
+## HighFive 🙌
 
 Five in one AI Chat Bot
 
